@@ -1,16 +1,30 @@
-# dropz_app
+📱 Dropz App
+O Dropz App é um aplicativo mobile desenvolvido em Flutter, que permite aos usuários explorar diversos gêneros musicais e visualizar detalhes sobre cada um. O projeto foi construído com foco em arquitetura limpa, organização por camadas e consumo de API RESTful.
 
-A new Flutter project.
+🚀 Funcionalidades
+Listagem dinâmica de gêneros musicais
 
-## Getting Started
+Exibição de detalhes do gênero selecionado (imagem, descrição, nome)
 
-This project is a starting point for a Flutter application.
+Navegação fluida e responsiva
 
-A few resources to get you started if this is your first Flutter project:
+Gerenciamento de estado e navegação com GetX
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Integração com API simulada usando JSON Server
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Configurações externas por meio do arquivo .env
+
+
+🛠️ Tecnologias Utilizadas
+Flutter
+
+Dart
+
+GetX
+
+Dio (HTTP Client)
+
+flutter_dotenv
+
+JSON Server
+
